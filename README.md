@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+Warning, this repository will soon be deprecated. The PyGridNode functionalities will be moved to [PyGrid](https://github.com/OpenMined/PyGrid).
+
 ![pygrid-logo](https://raw.githubusercontent.com/OpenMined/design-assets/master/logos/PyGrid/horizontal-primary-trans.png)
 
 ![Tests](https://github.com/OpenMined/PyGridNode/workflows/Run%20tests/badge.svg)
